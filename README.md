@@ -3,7 +3,11 @@ www.dio.me
 
 
 #### Desenvolvido na linguagem Java por:
+<<<<<<< HEAD
 - [Wagner M. Silva](https://github.com/wmsmartins/banco-digital-dio)
+=======
+- [Wagner M.][https://github.com/wmsmartins/banco-digital-dio]
+>>>>>>> 69f05c0e6a16b1079e6b59723fe4c1958f019a9c
 # Desafio de projeto da DIO - Criando um Banco Digital com Java e Orientação a Objetos
 ## Descrição
 Desafio: Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário: “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
